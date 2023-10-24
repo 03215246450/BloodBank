@@ -1,0 +1,29 @@
+.bg-image{
+   background-image: url("https://www.sriramakrishnahospital.com/wp-content/uploads/2021/06/Blood-Donation-1.jpg");
+   height: 100vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+
+}
+body{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+
+
+.bg-image {
+   position: relative;
+ }
+ 
+ .text-overlay {
+   position: absolute;
+   top: 550px; 
+   left: 200px; 
+   text-align: center;
+   color:#8cdcff;
+   font-size: 24px;
+ }
+
+ 

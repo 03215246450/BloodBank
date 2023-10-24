@@ -1,0 +1,13 @@
+.bg-images{
+    background-image: url("https://cdn.britannica.com/62/186362-138-68A5A0E5/device-behaviour-sickle-cells.jpg?w=400&h=225&c=crop");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+ 
+ }
+ body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
